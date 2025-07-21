@@ -12,9 +12,7 @@ A calculadora é baseada em um exercício do livro de Física, onde são dadas q
 
 📐 Fórmula usada:
 
-\[
-V = k \cdot \sum_{i=1}^{n} \frac{q_i}{r_i}
-\]
+**V = k × Σ (qᵢ / rᵢ)**
 
 ---
 
