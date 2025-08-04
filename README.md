@@ -16,10 +16,15 @@ A calculadora é baseada em um exercício do livro de Física, onde são dadas q
 
 ---
 
+## 🖼️ Imagem do exercício
+
+<img width="783" height="530" alt="image" src="https://github.com/user-attachments/assets/09f285a7-f76d-4014-a603-c162441fbdb3" />
+
+---
+
 ## 🖼️ Preview da Interface
 
 <img width="480" height="305" alt="image" src="https://github.com/user-attachments/assets/bb775221-ecaa-4349-82bd-0530f9f7973f" />
-
 
 ---
 
